@@ -1,4 +1,4 @@
-My LinkedIn profile: https://pl.linkedin.com/in/wojciech-galecki
+<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wojciech-galecki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/wojciech-galecki?trk=profile-badge">Wojciech Gałecki</a></div>
 
 <!---
 - 👋 Hi, I’m @VuGal
