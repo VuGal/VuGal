@@ -1,3 +1,5 @@
+My LinkedIn profile: https://pl.linkedin.com/in/wojciech-galecki
+
 <!---
 - 👋 Hi, I’m @VuGal
 - 👀 I’m interested in ...
