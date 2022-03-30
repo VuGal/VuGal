@@ -1,4 +1,4 @@
-My LinkedIn profile: https://pl.linkedin.com/in/wojciech-galecki
+My LinkedIn profile: https://linkedin.com/in/wojciech-galecki
 
 <!---
 - 👋 Hi, I’m @VuGal
